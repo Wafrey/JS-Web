@@ -8,7 +8,7 @@
 2. [PERSISTENCE - FILES AND MONGODB](https://tinyurl.com/yxnm6znd)
 3. [INTRODUCTION TO EXPRESS.JS AND VIEW ENGINES](https://tinyurl.com/y3zyjggx)
 4. [SESSION AND AUTHENTICATION](https://tinyurl.com/y4kmb5pz)
-5. [ARCHITECTURE AND CODE STYLING]
+5. [ARCHITECTURE AND CODE STYLING](https://tinyurl.com/y6mbkb7s)
 
 # ReactJS Fundamentals
 
