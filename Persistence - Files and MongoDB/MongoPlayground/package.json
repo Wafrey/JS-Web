@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "formidable": "^1.2.1",
-    "mongoose": "^5.5.5"
+    "mongoose": "^5.7.5"
   }
 }
